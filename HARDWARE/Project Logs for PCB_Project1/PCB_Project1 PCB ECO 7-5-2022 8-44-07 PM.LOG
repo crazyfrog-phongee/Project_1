@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=RST Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Member From Class: ClassName=Master_MCU Member=SW1
+Change Component Comment : Designator=R1 Old Comment=1k New Comment=10k
+Change Component Designator: OldDesignator=S3 NewDesignator=S4
+Change Component Designator: OldDesignator=S4 NewDesignator=S5
+Change component parameters: Designator = "L1"; Footprint = "L-SMD-M-7.3x4.5"; UniqueID = "\UMPKJODT\LURKGHNW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "33.0 µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RST Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=RST Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Member To Class: ClassName=Master_MCU Member=Component S5 Screw
+Added Room: Name=Master_Display
+Added Room: Name=Master_MCU
+Added Room: Name=Master_Power_Supply
+Added Room: Name=Master_Sensor
+Added Room: Name=Master_Transmit

@@ -1,0 +1,9 @@
+Added Component: Designator=LCD1(LCD16X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LCD16x2A"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Master_Display Member=Component LCD1 LCD16x2A
+Added Room: Name=Master_Display
+Added Room: Name=Master_MCU
+Added Room: Name=Master_Power_Supply
+Added Room: Name=Master_Sensor
+Added Room: Name=Master_Transmit

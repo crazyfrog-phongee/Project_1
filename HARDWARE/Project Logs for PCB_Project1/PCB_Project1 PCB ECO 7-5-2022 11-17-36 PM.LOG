@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetLED3_2 Pin=R2-2
+Removed Pin From Net: NetName=NetLED2_2 Pin=U1-14
+Removed Pin From Net: NetName=NetR2_1 Pin=U1-15
+Change component parameters: Designator = "L1"; Footprint = "L-SMD-M-7.3x4.5"; UniqueID = "\UMPKJODT\LURKGHNW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "33.0 µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Added Component: Designator=LCD1(LCD16X2N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LCD16x2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-14
+Added Pin To Net: NetName=NetLED3_2 Pin=U1-15
+Added Member To Class: ClassName=Master_Display Member=Component LCD1 LCD16x2A
+Added Room: Name=Master_Display
+Added Room: Name=Master_MCU
+Added Room: Name=Master_Power_Supply
+Added Room: Name=Master_Sensor
+Added Room: Name=Master_Transmit

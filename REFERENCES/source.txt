@@ -1,0 +1,17 @@
+source1: https://tiki.vn/mini-stable-waterflow-pump-charge-generator-hydroelectric-micro-hydro-tap-diy-080v-p55652909.html?spid=55652911&utm_source=google&utm_medium=cpc&utm_campaign=SEA_NBR_GGL_SMA_DTP_ALL_VN_ALL_UNK_UNK_C.ALL_X.10625984613_Y.106657549322_V.55652911_W.c_A.1394525323160_O.UNK&gclid=Cj0KCQjwsdiTBhD5ARIsAIpW8CKNzGzA3ZbbHfkuz0KiKsQwqtz3EAhyeakROEpSLWt0pLRC2gNJNREaAsfAEALw_wcB
+source2: https://shopee.vn/1-Thi%E1%BA%BFt-B%E1%BB%8B-Chuy%E1%BB%83n-%C4%90%E1%BB%95i-%C4%90i%E1%BB%87n-Th%E1%BB%A7y-L%E1%BB%B1c-Micro-Hydro-12v-10w-i.129753828.3454816072?gclid=Cj0KCQjwsdiTBhD5ARIsAIpW8CLH-jmx1RCIZLhXmC56Vb5qWtaqYxjMkz7lsN7LOELPP-1HK79h5CcaAmRUEALw_wcB
+source3: https://tiki.vn/yellow-translucent-12v-10w-dc-water-flow-pump-generator-turbine-generator-hydroelectric-micro-hydro-generator-tap-water-flow-hydraulic-diy-f50-5v-f50-12v-f50-80v-p119011078.html?spid=119011085
+source4: https://shopee.vn/DC-5V-12V-80V-DIY-Hydraulic-High-Power-Stainless-Steel-Water-Flow-Energy-Conversion-For-Tap-Micro-Hydro-Generator-i.207528651.6052997049?gclid=CjwKCAjwx46TBhBhEiwArA_DjBbrYPtnxHNswGnnhiGLytqOiSodXW40UlDG1h6SrFGSPii6pSChpRoCvpkQAvD_BwE
+
+
+datasheet DHT11: https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf
+		https://www.youtube.com/watch?v=lIyBfwBKdSM
+source code_ref: https://www.electronicwings.com/avr-atmega/dht11-sensor-interfacing-with-atmega16-32
+source code_ref: http://davidegironi.blogspot.com/2013/02/reading-temperature-and-humidity-on-avr.html#.YsE1OHZBxPZ
+source code_ref: https://github.com/liyanboy74/AVR-DHT/blob/master/main.c
+source code_ref: https://github.com/efthymios-ks/AVR-DHT
+
+hardware:
+source1: https://thanhphonglab.wordpress.com/2018/07/08/tu-lam-kit-avr-atmega16-3/
+source2: https://mikrobandung.files.wordpress.com/2014/04/skematik-rangkaian-evaluation-board-atmega16-type-2.pdf
+source3: http://nicecircuits.com/ch340g-usb-to-rs232-ttl-module-schematic-d-sun-v3-0/

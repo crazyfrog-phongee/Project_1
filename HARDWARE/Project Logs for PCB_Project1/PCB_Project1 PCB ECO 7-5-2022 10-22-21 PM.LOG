@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=Master_Transmit Member=Component C9 104
+Added Room: Name=Master_Display
+Added Room: Name=Master_MCU
+Added Room: Name=Master_Power_Supply
+Added Room: Name=Master_Sensor
+Added Room: Name=Master_Transmit

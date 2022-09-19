@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJP3_2 Pin=U1-19
+Added Pin To Net: NetName=NetJP3_2 Pin=U1-18
+Added Room: Name=Master_Display
+Added Room: Name=Master_MCU
+Added Room: Name=Master_Power_Supply
+Added Room: Name=Master_Sensor
+Added Room: Name=Master_Transmit

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=JP3 Old Footprint=JP3-D1C New Footprint=JP3H
+Added Room: Name=Master_MCU
+Added Room: Name=Master_Power_Supply
+Added Room: Name=Master_Sensor
+Added Room: Name=Master_Transmit

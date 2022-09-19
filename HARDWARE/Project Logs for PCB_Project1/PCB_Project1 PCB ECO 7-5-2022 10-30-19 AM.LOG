@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C2 Old Footprint=J6-D1T New Footprint=JP6H
+Added Room: Name=Master_Display
+Added Room: Name=Master_MCU
+Added Room: Name=Master_Power_Supply
+Added Room: Name=Master_Sensor
+Added Room: Name=Master_Transmit

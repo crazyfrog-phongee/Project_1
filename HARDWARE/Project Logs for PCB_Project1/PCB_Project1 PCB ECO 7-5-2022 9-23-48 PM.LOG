@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=RST Pin=C2-4
+Added Room: Name=Master_Display
+Added Room: Name=Master_MCU
+Added Room: Name=Master_Power_Supply
+Added Room: Name=Master_Sensor
+Added Room: Name=Master_Transmit
